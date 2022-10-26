@@ -1,4 +1,8 @@
 thirdfile in thirdbranch
 c4 commit
+<<<<<<< HEAD
 
 c6 commit
+=======
+added from github account
+>>>>>>> e9888362571b800f8fa4cb3e53ea10f176dab4f0
